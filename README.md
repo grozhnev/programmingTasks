@@ -1,5 +1,5 @@
 # Programming Tasks
-### This repository is a prototype of proper "EJC" repository, built as an example on a training course.
+### This repository contains solutions for different programming and math tasks.
 
 Contents:
   - <a href="https://github.com/grozhnev/programmingTasks/tree/master/src/main/java/brackets"> Brackets </a> (check the amount of open and close brackets in string)  
